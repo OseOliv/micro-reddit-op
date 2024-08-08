@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Micro Reddit project for The Odin Project Rails course.
 
-Things you may want to cover:
+This course focuses on creating models, and migrating databases for those models. Controllers and views will not be created for this project.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ruby version 3.2.4
